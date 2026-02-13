@@ -27,7 +27,8 @@ webtechnologie/
 
 ## Oefeningen
 
-1. [background-padding](background-padding/)
+1. [color-size-border](color-size-border/)
+2. [background-padding](background-padding/)
 2. [ph-scale-box](ph-scale-box/)
 3. [universal-box](universal-box/)
 4. [circles](circles/)
